@@ -1,6 +1,6 @@
 ## MathFun
 
-#fork or clone 
+# fork or clone 
 run main.rb
 
-#play by yourself or with friends
+# play by yourself or with friends
